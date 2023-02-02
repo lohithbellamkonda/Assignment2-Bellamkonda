@@ -48,14 +48,14 @@ I recomand every one to visit these countries
 
 
 <?php query_posts('cat=-3'); ?>
-
+```
 <?php if (have_posts()) : ?>
 <?php while (have_posts()) : the_post(); ?>
   <h3></h3>	
   <p><?php the_time('F jS, Y') ?></p>
   <?php the_content(); ?>
 <?php endwhile; ?>
-
+```
 [Source Link](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
 
 
