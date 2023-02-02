@@ -17,3 +17,19 @@
 * Royal Kings Team
 
 **[AboutMe](AboutMe.md)**
+
+****
+
+## My Travelling aroud world
+
+I recomand every one to visit these countries
+
+|country  |  Purpose | Days |
+|:---:    |  :----:  | :---:|
+| USA     | Advance technology | 70|
+| UK      | city               | 40|
+|canada   | water falls        | 30|
+
+
+
+
