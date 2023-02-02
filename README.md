@@ -34,9 +34,9 @@ I recomand every one to visit these countries
 ## pithy quoets
 
 >“I have only made this letter longer because I have not had the time to make it shorter."
->- Blaise Pascal
+>-*Blaise Pascal*
 >“Mathematicians deal with large numbers sometimes, but never in their income.”
->-Isaac Asimov
+>-*Isaac Asimov*
 
 
 
