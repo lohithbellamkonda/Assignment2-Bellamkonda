@@ -38,6 +38,26 @@ I recomand every one to visit these countries
 >“Mathematicians deal with large numbers sometimes, but never in their income.”
 >-*Isaac Asimov*
 
+**
+
+## Code Fencing
+
+>How to remove list elements in a for loop in Python?
+
+[Source Link](https://stackoverflow.com/questions/10665591/how-to-remove-list-elements-in-a-for-loop-in-python)
+
+
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+
+[Source Link](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
+
 
 
 
