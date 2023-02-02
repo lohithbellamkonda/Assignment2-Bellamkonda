@@ -12,3 +12,6 @@
       1. Allu Arjun
       2. Ram Charan
       3. Vijay
+* Titans Team
+* Bulls Team
+* Royal Kings Team
